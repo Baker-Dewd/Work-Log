@@ -1,0 +1,76 @@
+Monday: 
+  Todo: 
+    Clean up servicediscovery namespace I created.
+    Clean up old datasource.
+    Create namespaces for DOE, IPKMS. 
+    Datasource made for GU.
+    Add namespace documentation to quicksight cli page. 
+  Query, Can we involve Brady with software testing to help debug problem clients?
+  
+  Actual: 
+    DOE and IPKMS Namespaces are created but Datasources were not
+      Moved the tickets back to in progress. 
+      Need to learn where to log into the fedramp DB to create datasources
+      *then assign them to the namespace group. 
+    
+Tuesday: 
+  Todo:
+    Create Datasources for DOE and IPKMS
+    Cleanup and Document
+    
+  Actual: 
+    Discovered the Fedramp datasource group had been deleted. 
+    Spent most of the afternoon figuring out how to recreate, or proceed without it. 
+    DOE Datasource created, group membership added, passsed to Dan to test. 
+      Without the new datasource group. *may not be needed* 
+      Need a group with no read access to the DS maybe?
+
+Wednesday: 
+  Todo:
+    Connect with Dan K to validate Datasource
+    Complete ipkms datasource
+    DataDog Cloudflare meetings this afternoon
+    Drill and document namespace / quicksight  
+
+  Actual: 
+    DOE Datasource Validated and group membership revoked
+    DataDog Cloudflare meetings
+      CloudFlare should be easy adds. 
+      Translates well to firewall applications I Have a lot of experience with.
+    Drill and document namespace / quicksight  
+    Some Nessus Scans came up and tickets are being created
+    
+Thursday: 
+    Todo:
+      IPKMS
+      Documentation
+      Nessus Tickets
+    Actual: 
+      Dan K signed off on DOE
+      IPKMS Mostly done. Need a VPC added
+        sg-0c486ce682e34350f - gov01-prod-quicksight-rds-access
+        lmco-db01-prod-gov01
+      Logjam I/II 
+      Sentinal / Sumo log review
+      Documentation started.
+
+Friday
+    Todo:
+      IPKMS - Need a VPC Added for Quicksight access. 
+        BLOCKED BY VPC / ACCESS
+      Solr Alerts
+      Log Analysis
+      Ask to Pair with Triston to go over Jira - Looking for the Kanban and lost tickets. 
+    Actual: 
+      IPKMS Rolled to next sprint
+      Went over Jira with Triston
+      Solr Done, 
+        haz question about obsessing. Notifications disabled.    
+      Met with Dyna Trace
+      Intend to complete Log Analysis today.
+        Son Injured his eye Friday evening. 
+      CloudFlare alert over the weekend. 
+  
+
+
+

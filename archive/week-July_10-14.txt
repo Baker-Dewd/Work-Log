@@ -1,0 +1,56 @@
+Sprint End / Start
+Monday: 2M 4W
+  Todo: 
+    End of Sprint Activities
+    I too expect to work with Travis the rest of the week. 
+    Solr Alerts - 1 Point? Knowledge gathering. 
+    Quicksight Tickets 
+
+  Actual: 
+    Unlocked Regions in source. 
+    Sprint planning.
+    Quicksight Tickets. 
+
+  Notes: 
+    Were the tickets I referenced with Tristan in chat for the other sprint?
+
+Tuesday: 5M 1W
+  Todo: 
+    Pairing with Travis.
+    Quicksight Setups. **
+    DataDog.
+    Paired with Abdel.
+      Bring up Duplicate / Vague tickets for jira certs 
+  Actual: 
+    Matches Todo.
+
+Wednesday: 5.5M 1.5W
+  Todo:
+    Quicksight Tickets. ***
+    Pairing with Travis
+    Harassment training
+  Actual: 
+    Team Meeting
+    Pairing with Travis
+    Quicksight tickets.
+  Blocker: 
+    Namespace Permissions to Operate quicksite tickets.
+      Considered creating the role manually last night but need to inquire
+      if there is a preferred method to automate. This is a POC.    
+
+Thursday: 4M 4W 
+  Todo:
+    Namespace / Quicksight **** ( Travis Off boarding took Pri )
+    Meetings.
+  Actual:
+    Pairing / Offboarding w/ Travis and Abdel and team.
+    Added QuickSight Admin to Brady. Should fix her QS access.
+    Briefly worked on Jenkins. 
+    
+Friday: 
+  Todo:
+    Namespace / quicksight focus. Deadline today.
+  Actual: 
+    App Dynamics
+    Training
+    VA Namespace created + re-created datasource - Va is done. 

@@ -1,0 +1,74 @@
+Monday: 
+  Todo: 
+    - CCF CRODBA (SYS-19129)
+    - - Do we use a crodba user for these data bases?
+    -
+
+  Actual: 
+    - CCF CRODBA (SYS-19129)
+    - Manitoba Crodba SSH connection issue (SYS-18958)
+
+  
+Tuesday: 
+  Todo:
+  Actual: 
+    - CCF CRODBA (SYS-19129) [ Pending Review ]
+    - - Noticed that there is *.* for permissions on all tables despite conversations discussing limiting this. 
+    - - Is this allowed and do we need to go back in and restrict access?
+    - - One table was missing but showed up when I asked Dan about it: custom_data_object_property
+    - - Notified Dan in chat. 
+
+    - Manitoba Crodba SSH connection issue (SYS-18958) [ Pending Review ]
+    - - SSH key provided was not in thesource. Found this requesting more info. 
+    - - Added the key to thesource myself, noted the ticket and asked for a test. 
+    - - Notified Micheal in chat. 
+
+    - [FR] Create asset_integration directories (SYS-19251) [ Done ]
+    - - Pretty easy. Did it on Cron and saw the folders show up in the other two servers.
+    - - This wasn't supposed to be done in Puppet right? 
+  
+--> Bang on Eric and CABs. See Notes [ Done ]
+ 
+Wednesday: 
+  Todo:
+    - (SYS-19252) Add LMCO Directories to Puppet
+    - Puppetize - RDS Checks (SYS-19096)
+    - 
+
+  Actual: 
+    - (SYS-19252) Add LMCO Directories to Puppet [ Need re=key ]
+    - Puppetize - RDS Checks (SYS-19096)
+    - - Stoped RDS checks for Sunnybrook timeout issues (SYS-19311)
+    - RDS Checks diagnosis NOT Ops issue but we *can* help. 
+    - Some pairing with Abdel. 
+
+
+Thursday: 
+  Todo:
+    - (SYS-19129) Missing Tables. ( They got back to Dan today )
+    - (SYS-18958) Manitopa Crodba connection. ( Followed up with Micheal )
+    - (SYS-19252) Add LMCO Directories to Puppet
+    - Puppetize - RDS Checks (SYS-19096)
+    - 
+        
+  Actual: 
+    - (SYS-19129) Missing Tables. ( User Password Issue / Permissions )
+    - (SYS-18958) Manitopa Crodba connection. ( Actually 2 issues [ ssh, mysql ])
+    - Pairing with Brady so I can see Sentinel1 and Jamf process
+    - Sumo Security review which included Incident activity. 
+
+
+Friday
+  Todo:
+    - (SYS-19129) Missing Tables. ( They got back to Dan today )
+    - (SYS-18958) Manitopa Crodba connection. ( Followed up with Micheal )
+    - (SYS-19252) Add LMCO Directories to Puppet
+    - Puppetize - RDS Checks (SYS-19096)
+    - 
+
+  Actual: 
+    - (SYS-19129) Missing Tables. ( Received approval to reset account in the afternoon. )
+    - (SYS-18958) Manitopa Crodba connection. ( Putting behind RDS )
+    - Precab + sip & stare 
+      
+

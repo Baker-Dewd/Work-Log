@@ -1,0 +1,100 @@
+Monday: 
+  Todo: 
+    - Site teardowns
+
+  Actual: 
+    - Site teardowns
+      - One postponed until Thursday Evening
+      - The other needs backup First.  
+    - Peger Duty wtf'ry.  
+      - Added PD alert and DB perf data to CAB and Sys ticket for RDS resize.
+    - OMG Pager Duty...
+ 
+Tuesday: 
+  Todo:
+    - Investigate alerts on Canada.
+    - Perform site backup for Lumenisty (SYS-19073)
+        https://github.com/Wellspring-Worldwide/sysops-docs/blob/master/markdown/uncategorized/Client_Backups.md 
+        https://jira.wellspring.com/browse/SYS-18390 
+        https://github.com/Wellspring-Worldwide/sysops-docs/blob/master/markdown/uncategorized/workdocs_client_backups.md
+        http://thesource.wellspringworldwide.com/clients/sites/1546
+
+      
+    - 
+
+  Actual: 
+    - Nus Crodba access issue in ops. SYS-19074 
+        https://jira.wellspring.com/browse/SYS-19074
+        https://friendly-journey-e9e7b3cf.pages.github.io/sophia/crodba/#create-the-client-crodba-account-in-db01-mysql
+        http://thesource.wellspringworldwide.com/clients/sites/660
+        https://github.com/Wellspring-Worldwide/sysops-docs/blob/master/markdown/sophia/crodba.md#instructions-for-clients
+        https://github.com/Wellspring-Worldwide/sysops-docs/blob/master/markdown/uncategorized/CRODBA_client_connection_template.md
+
+    - Cost Reduction report.
+    - Nagios / Mysql upgraded hosts investigation. 
+      - Boto access keys? 
+
+Wednesday: 
+  Todo:
+    - Look at cost on CAB-4220 ( See notes ) 
+    
+
+  Actual: 
+    - Team meeting
+    - Pair with Abdel
+      - Nessus
+      - DB check ( TZ ) 
+    - 1:1
+    - Logjam + DB Check 
+    - Ops request for Client SFTP connections (SYS-19088)
+    -  
+
+    
+Thursday: 
+  Todo:
+    - SYS-19074 (Nus Crodba) [ Closed ]
+    - SYS-19088 ( Sftp cannot connect. Whitelist Ip?
+    - Look at cost on CAB-4220 ( See notes ) ** 
+    - Nagios / Mysql upgraded hosts investigation. **
+    - Site teardowns
+      - One postponed until Thursday Evening
+
+  Actual:
+    - Townhall
+    - FTP Tickets. Ty Gavin and Jose. 
+      - Delivery to Multiple client FTPs (Sys-19091) 
+      - Also difficult to remain on task when checking channels. 
+    - Connect to sftp to upload backup is rdy  (SYS-19088)
+      - Asked to cofirm the address I found was his.
+      - Not great to say it's fixed and it's not the right ip.
+    - Unable to download files on QA. Server was off after 7  (SYS-19092)
+    - Moved Anavo site teardown to Nagoya. (SYS-19023)
+    - Started exploring the PDK. 
+
+
+Friday
+  Todo:
+    - Get feedback required to finish ticket to upload backups to Sftp (SYS-19088)
+    - Unable to download files on QA. (SYS-19092)
+    - Create Nessus ticket for Jira Integration. 
+    - PreCab prep for RDS resize. (CAB-4220)
+      - Add price difference between rds levels. 
+    - Complete the backup for Lumenisity (SYS-19073)
+
+If the ops channel calms down I can get this. :P
+
+
+Sidebar: Who is doing this? I can make a ticket if we don't have one already.  
+    - Nagios / Mysql upgraded hosts investigation. ***
+      - I don't think we're going to get disk usage alerts with this down. 
+    - Do we use puppet forge accounts under our wellspring emails? 
+    
+  Actual: 
+    - Resolved Sys-19091. FTP for multiple clients. 
+    - Pre-Cab with Brady. Updated work to do and completed price comparison. 
+    - PR completed for SYS-19088. 
+
+
+
+     
+

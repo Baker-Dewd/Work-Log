@@ -1,0 +1,48 @@
+Monday: Holiday
+
+Tuesday:
+  Todo: 
+    - Document my experience thouroughly with what I received from Jose and Brady.
+    - Add new Private GPG key to pass / keys.
+    - SYS-18964 ~ Rpm_mount on ops-jenkins-prod-govmgmt
+
+
+  Actual: 
+    - Looked into puppet for the rpm_mount issue
+      - Deferred for dox before loading head with pupper
+    - NYU OS Upgrade planning
+    - Started on documentation 
+ 
+Wednesday: 
+  Todo:
+    - Finish the documentation for vuln patching. 
+    - Looking into the CPU count and Iteration check
+    - Back to rpm mount. 
+  
+  Actual: 
+    - Finished the dox
+    - Sumitomo alerting + Meeting with Sumitomo
+
+Thursday: 
+  Todo:
+    - Sumologic Alerting
+    - Update the patching doc
+
+  Actual: 
+    - re-wrote the patching doc with Jose's input.
+    - Found sumolgic cannot support us in fedramp with rum / apm
+    - Interview and discussion
+    
+
+
+Friday
+    Todo:
+      - Interview and review of interview. 
+      - Cab for reboots.( pre cab )
+      - S&S
+
+    Actual: 
+      - Interviews 
+      - pre-Cab
+      - Lower ENv Reboot.
+      

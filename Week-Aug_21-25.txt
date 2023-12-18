@@ -1,0 +1,88 @@
+Monday: 
+  Todo: 
+    - Patch Lower Environments prior to Cab. 
+
+  Sidebar:
+    - Can I grab Gavin for 5 minues after the standup. 
+        Can I add a specific version to a package or will the update script run and grab the latest sec patches? 
+
+    - CPU alerts would be my next target to fix next sprint. 
+    
+  Actual: 
+    - Found CAB-4221 appears to have no update candidates remaining. 
+      - Spent a significant amount of time looking for packages to pin. 
+      - Cancelled (CAB-4221) for review on Monday. ( Package issue might be a sidebar )
+
+    - Found the quicksight access issue and solved for Brady (SYS-18960)
+      - Paired with Abdel to show changes to Documentation and fixed Brady right after. 
+
+    - Postponed CAB-4220 due to missing plan
+      - Spent the remainder of the day trying to install yaml on pyenv 2.7.18
+        - Special thanks to Daniel for making the call as that would have been terribly embarrasing and not confidence building. 
+    
+
+Tuesday: 
+  Todo:
+    - Fix Python2 for TF Work
+    - Sprint Planning and completing turning on PD for FedRamp
+    - Ack alerts in Nagios for what we have tickets for. 
+    - Upgrade Nessus ( Watcher )
+    - Fill out shell tickets. 2-2-2 points. 
+
+Sidebar: 
+    - Do I send an email to Amazon about this phish? whois shows a company in NV, their Legal HQ is in Seattle. 
+    - Investigate OSSEC being flagged as malware?
+    - How to remove from inboxes ? Who do we forward it to?
+    -={ Legit }=-
+
+
+  Actual: 
+    - Alerts Acked for SYS-18903 ( Jose's ticket ) 
+    - Sprint planning 
+    - Continued to work on pyyaml on 2.7.18
+
+
+Wednesday: 
+  Todo:
+    - Upgrade Nessus under Watcher **
+    - Fix pyyaml on 2.7.18
+    - Check email for anything that might get bissed.
+
+  Actual: 
+    - Finally got 0.11.15 version of TF working. SYS-17622 && SYS-17919 may continue. 
+      - Switched to ops.admin and set up my env. 
+      - Thomas advised that pyyaml 2 is just not available anymore. 
+      - I also seem to have two private keys. 
+    - Tabletop exercise. 
+    - Nessus Automation is moving again. Ticket submitted yesterday
+    - Sumologic conversation has restarted.
+    - Moved my dev environment over to Ops-admin. 
+      - Need to regenerate my private GPG key. Forgot the password. 
+
+Thursday: 
+    Todo:
+      - Plans for my two Cabs.
+      - Work on Spikes today
+  
+    Actual: 
+      - I have the plan for the RDS CAB
+      - Setup my env in ops-admin for non-fedramp
+      - Regenerated my GPG keys
+      - Began looking for update candidates in FedRamp
+ 
+Friday
+    Todo:
+      - gpg keys
+      - Patch lowers 
+      - Pre-Cab
+      - S&S
+
+    Actual: 
+      - Gpg keys resigned. 
+      - Patched Dev
+      - Pre Cab
+      - S&S 
+
+
+     
+

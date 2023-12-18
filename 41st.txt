@@ -1,0 +1,67 @@
+Monday: 
+  Todo: 
+    X  Open Ticket with nessus
+      - Jira Integration. 
+      - Complete reinstall next
+    X Capa ticket for reboot of db04-prod.us03
+    X Dynatrace Rationale **
+    - Training that should have been done after hire. **
+    O Failed Alert Invesitgation (SYS-19122) ****
+    - Dynatrace Install puppet manifest. ***
+
+[ SideBar ] 
+    - Is Sandbox a separate environment? 
+      - highlander mentioned it's not in thesource. 
+      - Does it get turned off in the evenings and weekends?
+
+  Actual: 
+    X Updated Tickets for Triston.
+    X Dynatrace Rationale **
+    X Open Ticket with nessus / Read through community prior to opening ticket. 
+    - Updated Nessus
+    X Capa ticket for reboot of db04-prod.us03
+    - Attempted the training. Not available. Emails sent to Daniel, Ben and Sue.
+
+Tuesday: 
+  Todo:
+    - Failed Alert Invesitgation (SYS-19122) *****
+    - Need to re-install plugin with Triston. [ Blocked. No access to reinstall ]
+    - Dynatrace Install puppet manifest. ***
+  
+  Actual: 
+    - Split on call times. (SYS-19131)
+    - 
+
+Wednesday: 
+  Todo:
+    - Failed Alert Invesitgation (SYS-19122) ******
+    - Need to re-install plugin with Triston. [ Blocked. No access to reinstall ]
+    - Dynatrace Install puppet manifest. ****
+
+  Actual: 
+    - Jenkins update with Abdel.  
+    - Patched a vuln that I could do without a cab and were quick.
+    - Nessus ticket creation for Medium Nessus Discorveries.  
+
+Thursday: 
+  Todo:
+    - Failed Alert Invesitgation (SYS-19122) ******
+    - Need to re-install plugin with Triston. [ Blocked. No access to reinstall ]
+    - Dynatrace Install puppet manifest. ****
+        
+  Actual: 
+    - Met up with Triston to square away the calendar
+    - Decided to come back to the Jira plugin.
+      - Cab, after hours, whats involved.
+    - Got back to Cloudflare.
+
+Friday
+  Todo:
+    - Pre-Cab for JP CF Prod. 
+
+  Actual: 
+    - Started on Precabs for Jp ( Refresh on the process also ) 
+    - Jumped to RDS Resizing for other regions. 
+
+      
+

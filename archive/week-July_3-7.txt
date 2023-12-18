@@ -1,0 +1,55 @@
+Friday: .5M ~ 2W : 4Comp
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. ***
+    Update datasource in AWS and get back to Dan Keinz
+  Actual :
+    Data sources added to pass and uploaded.
+    Chrome being a bugger.
+    Requested access to modify / delete datasources from Thomas.
+      Should have access. Need to Learn the correct format for the update.
+
+Saturday: 3
+  Backups
+
+Monday:  Holiday
+Tuesday: Holiday
+
+       
+Wednesday: 2.5M 4.5W ~ July 5th. 
+  ToDo
+    Started the day out high maint.
+    Update Datasources
+    Solr alerts spike
+  Actual: 
+    Chrome switchover complete
+    1:1 ~ Get with Travis and Abdel on Nessus operation
+      Conversed briefly in chat over Thursdays Logjam for Nessus plans + tickets
+    Update Datasource completed and documentation started. Where to put it?
+    Started in on the Solr alert ticket. 
+
+Thursday: 3.5M 2.5W ~ July 6th.
+    Todo: 
+      Follow up with Jira vendor.
+      Solr alerts. 
+      Add Quicksite update data.
+
+    Actual:
+      Updated another datasource. 
+      Met with Travis, Andrew and Abdel to discuss plans for Nessus handogg
+      Sumo pairing with Brady and Abdel 
+      Added update and validate datasources portions to quicksite documentation
+      
+Friday: 
+    Todo: 
+      Follow up with JIra Vendor. **
+      Whatever Tickets I can finish today. **
+      Do I unlock the EU envs today? ( NO. Not until done Pen Testing. )
+      Where is the solr panel? ( In Nagios. )
+    Actual: 
+      Created the Smart Lists for Abdels Pre-Cab.
+      Completed UAMS Production certificate with Travis. 
+      Pre-cab review with Abdel, Brady, Jose.  
+      Pinged Contegix and received a ticket over the weekend.  
+      Finally got started on Solr but need more data to finish the ticket. 
+

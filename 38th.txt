@@ -1,0 +1,75 @@
+Monday: 
+  Todo: 
+    - Sprint End
+      - Board CLeanup
+    - Vuln Patching + PDK / Puppet stuff. 
+    - Cab
+
+  Actual: 
+    - Sprint End
+    - Survey
+    - PR to Dev failed. 
+      - Spent some time diagnosing / gathering information.    
+ 
+Tuesday: 
+--> Bring up reboot email. 
+
+  Todo
+    - Pr to Dev / Vulns Patched. No Highs or Crits. CLose and comment tickets.  
+    - 
+  
+  Actual: 
+    - Configure PagerDuty to alert on Icinga (SYS-18903)
+      - Closes CAPA-6893
+      - Had to pause for permissions. Daniel sorted
+    - Create Alerts in Cloudflare (SYS-19013)
+      - Alerts configured in CloudFlare and integrated with PagerDuty ++
+      - Does this close another Capa?
+    - 
+
+Ask for Wednesday : 
+  - Have we gained access to Nessus support?
+  - What to do with poweing off those hosts? Was that for Brady or I?
+  - Still doing the Bluescreen Thurs? I think not?
+
+Wednesday: 
+  Todo:
+    - Nagios alerts to Anavo slack channel. 
+    - Questions about site tear-downs. Can be done anytime?
+
+  Actual: 
+    - Re-pushed my gpg key to sysops-docs/keys
+    - Helped Nick with Flintbox DB access (SYS-19068)
+    - Added details to a pair of capa tickets after the capa meeting. 
+    - 1:1
+    - Started on the Anavo slack / nagios ticket. 
+    
+    
+Thursday: 
+    Todo:
+    - Icinga -> Anavo Slack channel notification. (SYS-19031)
+        
+    Actual: 
+    - SYS-19038 ~ Cost Reduction
+      - Added an EC2 tab to the cost reduction spreadsheet
+      - Stopped the two test instances that were going to be down for maint by AWS.
+      - Looked for costs of each instance and found it's going to be more involved.
+      - https://docs.google.com/spreadsheets/d/1x28BHevcsQl4M9cjjwqO6OL_opXx9dpGi9Mon3LUrIM/edit#gid=1007428463
+
+    - Icinga -> Anavo Slack channel notification. (SYS-19031)
+      - Def SSL issues. 
+        - Determining which receiving hosts have broken certs.
+        - Determining if it makes sense to allow broken certs on calling hosts.
+
+Friday
+[ Ask for Friday ]
+  - Kill Nagios02? Hibernate for now?
+
+    Todo:
+      - Finished the Anavo / Nagios ticket. Big thank you to Gavin
+      - Updating the Cab ticket for the RDS resize. 
+      - Pre-cabn and Sip and Stare. 
+
+    Actual: 
+      
+

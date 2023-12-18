@@ -1,0 +1,56 @@
+Monday: 
+  Todo: 
+    - (SYS-19129) Missing Tables. ( They got back to Dan today )
+    - (SYS-18958) Manitopa Crodba connection. ( Followed up with Micheal )
+    - (SYS-19252) Add LMCO Directories to Puppet
+    - Puppetize - RDS Checks (SYS-19096)
+
+  Actual: 
+    - (SYS-19129) Missing Tables. ( Waiting for response )
+    - (SYS-18958) Manitopa Crodba connection. ( Waiting for response )
+    - (SYS-19252) Add LMCO Directories to Puppet ( Brady )
+    - Puppetize - RDS Checks (SYS-19096) - Done. 
+  
+Tuesday: 
+  Todo:
+    - (SYS-19129) Missing Tables. ( Waiting for response )
+    - (SYS-18958) Manitopa Crodba connection. ( Waiting for response )
+    - (SYS-19067) FlintBox RDS in Nagios
+  
+  Actual: 
+    - Appointment in the Morning after stand
+    - (SYS-18958) Manitopa Crodba connection ( Need to know where config files are stored for ssh pull )
+    - (SYS-19067) FlintBox RDS in Nagios ( has PR 
+    - - https://github.com/Wellspring-Worldwide/puppet-modules/pull/4580
+    - (SYS-19302) Monash Crodba ( Got started, might help understanding Manitoba )
+
+** Still waiting on Missing tables for CCF.
+
+Sidebar: 
+    - (SYS-19252) Add LMCO folders to Puppet, can give to someone else?
+
+Wednesday: 
+  Todo:
+    - (SYS-19067) Flintbox RDS entries for Nagios 
+
+  Actual: 
+    - (SYS-19067) Flintbox RDS entries for Nagios 
+    - Wanted to push and complete but didn't want to mess anythign up prior to the holiday weekend. 
+    - 
+
+Thursday: 
+  Todo:
+    - Eat 
+        
+  Actual: 
+    - 
+
+Friday
+  Todo:
+    - Recover
+
+  Actual: 
+    - More eating.
+
+      
+

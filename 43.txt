@@ -1,0 +1,59 @@
+Monday: 
+  Todo: 
+    - Precabs + Cabs for:
+      - CAB-4262 ~ Vasandbox refresh
+      - CAB-4263 ~ Resize EU RDS
+      - CAB-4264 ~ DOE Sandbox refresh
+      - RDS Checks for replication lag (SYS-19096)
+
+  Actual: 4hr
+    - Precabs
+    - Cabs
+    - Rds checks.  
+    - VA sync
+ 
+Tuesday: 
+  Todo:
+    - Spike ticket for using non-root acct for db dump / export. 
+    - EU RDS Resize. 
+    - RDS Repl Lat check. ( maybe )
+    
+  Actual: 3hr
+    - Paired with Abdel on SYS-19073
+    - EU RDS Resize
+    - Project work session. 
+
+Wednesday: 
+  Todo:
+    - Document Cloudflare Cutover + CAB
+    - Spike ticket for using non-root acct for db dump / export. 
+    - RDS Repl Lat check. ( maybe )
+     
+
+  Actual: 
+    - Document Cloudflare Cutover + CAB
+    - Paired with Abdel to help document clone process unique to WS
+    - 
+
+Thursday: 
+  Todo:
+    - Update for tennable Security Center (SYS-19086)
+    - Test DB Sync (SYS-19195)
+
+[ Sidebar ] 
+  How do we establish a tunnel between Jira and Nessus?
+        
+  Actual:  
+    - Document CloudFlare Cutover + Cab
+     
+
+Friday
+  Todo:
+    - RDS Checks Update (SYS-19096)
+
+  Actual: 
+    - Document CloudFlare Cutover + Cab
+    -  
+
+      
+

@@ -1,0 +1,62 @@
+Monday: 
+  Todo: 
+    - SYS-19377 ~ File server mount missing **
+    - SYS-19319 ~ IS_Fedram_Jenkins parameter
+
+  Actual: 
+    - SYS-19377 ~ File server mount missing [ Done ]
+    - SYS-19319 ~ IS_Fedram_Jenkins parameter
+    - 
+  
+Tuesday: 
+  Todo:
+    - SYS-19319 ~ IS_Fedram_Jenkins parameter [ Need pair ]
+    - SYS-19369 ~ Cortevaag Access to mysql through VPN
+    - 
+  
+  Actual: 
+    - SYS-19362 ~ Lockheed not receiving email at particular DL [ Done ]
+    - SYS-19369 ~ Cortevaag Access to mysql through VPN [ Review ]
+    - SYS-19129 ~ CCF missing tables [ Review ]
+    - SYS-19216 ~ Spike TLS 1.0 / 1.1 Disable ( This morning )
+
+Wednesday: 
+  Todo:
+    - SYS-19379 ~ Mysql Permission
+    - SYS-19216 ~ Spike Tls 1.0 / 1.1 Disable
+    - SYS-18985 ~ Manitoba Connection iSsUe. 
+
+  Actual: 
+    - SYS-19369 ~ Cortevaag Access to mysql through VPN [ New whitelist ]
+    - SYS-19216 ~ Spike Tls 1.0 / 1.1 Disable
+    - SYS-19379 ~ Mysql Permissions continue. 
+    -  
+
+Thursday: 
+  Todo:
+    - SYS-19379 ~ Mysql permissions to QA
+    - SYS-19129 ~ CCF Crodba Tables
+    - SYS-19369 ~ Cortevaag VPN - Can I close ?
+
+  Actual: 
+    - SYS-19379 ~ Mysql permissions to QA
+    - SYS-19129 ~ CCF Crodba Tables
+    - SYS-19369 ~ Cortevaag VPN - Can I close ?
+    - Paired with Abdel in the evening.  
+
+Friday
+  Todo:
+    - SYS-19371 ~ Non-Fedramp Cert (CAB)
+    - SYS-00000 ~ Reboots (CAB)
+    - SYS-19346 ~ Verify FedRamp Audit logs
+    - SYS-18985 ~ Umanitoba Connection issues
+    - SYS-19216 ~ Investigate TLS 1.0 / 1.1 
+
+  Actual: 
+    - SYS-19371 ~ Non-Fedramp Cert (CAB)
+    - SYS-00000 ~ Reboots (CAB)
+    - Paired with Abdel
+    
+
+      
+

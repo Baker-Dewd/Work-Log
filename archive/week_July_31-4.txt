@@ -1,0 +1,91 @@
+Monday: 
+  Todo: 
+    Watcher
+    SYS-18873 - Env Variables for FlintBox.
+    Beginning DataDog Demo
+
+  Sidebar: 
+    Where to put Namespace Dox
+      At the end of Qujicksight
+    Does Watcher or On-Call assist with Dpeloys?  
+      Watcher
+      
+  Actual: 
+    Flint Box release ( Script made / started ) 
+      ( Ty for the expert guidance brady )
+
+Tuesday: 
+  Todo:
+    Watcher 
+    Datadog Trial setup
+    Break up Watcher ticket into 2 point chunks. 
+    Make Tickets for CF Integrations
+    
+  Actual: 
+    Watcher - Notes about SSH request
+    DDA on 4 JP Dev hosts. 
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    Archive Server logs for Umich Incident
+        
+
+Wednesday: 
+  Todo:
+    Watcher
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    DDA Alerting
+
+  Actual: 
+    1:1
+    Team Meeting
+    cron01-gov Incident Discovery.
+    Ticket Generation for issues covered in 1:1
+
+### Tickets ###
+    need story to finsih the puma restart script? ( sys-18899 ) 
+    Need story to finish integrations with CF? ( Sys-18900 )
+    Can we have a running story for alert cleanup? ( sys-18901 ) 
+    Are we going to clean up the mail systems on hosts? ( sys-18902 ) 
+    Ticket for PagerDuty non-configuration ( CAPA-6893 / sys-18903 )
+
+Thursday: 
+  Todo:
+    Watcher
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    DDA Alerting
+
+### Apologies for missing Selene's request re: Duo. 
+      I had been seeing all the Jenkins spam and didn't look closer. 
+      Place Jenkins Notifs in a Jenkins channel?
+     
+      Follow up with Jose to look for Log4j in Nessus. 
+   
+###   Pluralsight - Eric runs it. Karl Kell Backup? 
+    Sophia Log files to Google Drive.  / Ask Trison to delete my Capa ticket.
+    Dear GOD the amount of noise.. ( Make Filters ) .
+
+Notes: 
+  Still need to: 
+    Install LDAP Tool
+    Install eyaml
+    Update Namespace Dox
+
+    Actual: 
+      LogJam I&II
+      Cron01-gov 
+           
+
+Friday
+    Todo:
+      Gsuite MFA Investigation 
+
+    Actual: 
+      Make Tennable / Nessus tickets for remdiation
+        Couldn't make an Ops Issue ticket right from Jira ( That I found ) 
+        Made an Ops Request and made issues from the checklists. 
+    Watcher: 
+      Reboot Nessus scanning agent server
+      
+

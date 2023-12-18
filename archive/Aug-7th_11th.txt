@@ -1,0 +1,91 @@
+Monday: 
+  Todo: 
+    DD Continuation
+    Nessus / Tenable Tickets
+        
+
+  Actual: 
+    To Delete
+      SYS-18917
+      SYS-18918
+      SYS-18932
+      SYS-18917
+      SYS-18927
+    CF to SL Completed
+    
+
+Tuesday: 
+  Todo:
+    Site slow speed (Ca)
+    Sumo account review
+    CF 2 SL: Testing and Observation
+    Alert Noise Reduction 
+  
+  Actual: 
+    - CF2SL - Success Confirmed
+    - Site slow speed (Ca) (SYS-18732
+        Only 4G, Swap looks *pegged* lets try 8G Ram
+    - Slow File Upload Times in EU (SYS-18877)
+        Started Team conversation with Selene. 
+    - Alert Noise Cleanup (SYS-18901)
+        Going after '/opt/sentinelone/rpm_mount' 
+          'shiny-octo/modules/icinga_client/manifests/check/disk/
+          Adding the path to $ignore_paths: /opt/sentinelone/rpm_mount
+
+Wednesday: 
+  Todo:
+    - Pairing with Triston for Jira Integrations
+    - Clean up DD agents. 
+        No longer looking at DD
+    - PR for Cleaning up noise in Icinga
+    - PR for Increase in Resources for RDS
+  
+
+  Actual: 
+    - Team Meeting
+    - Pair with Triston
+        Need to Generate Keys in Teneble.sci for Jira. 
+    - :: Lunch
+    - Helped Abdel with Cloudflare login briefly. 
+    - PR for Cleaning up Noise in Icinga. (SYS-18901)
+    - PR for Increasing RDS instances in Canada. (SYS-18732)
+  
+   
+----> 
+  What is Steve Gonzalas Feedback?
+  Can we get a pending status in Jira for tickets that are waiting on others but not blocked?
+  
+Thursday: 
+    Todo:
+      - Help Sue with Google Forms. (She fixed her own problem)
+      - CAB Doc for Increase in RDS
+      - CAB Doc for Reboots
+      - Sumo Integrations 
+      - Nessus Keys for Jira 
+      - Interview
+
+    Actual: 
+      - Morning Meetings / Interview
+      - Keys Ready for Triston. 
+      - Reboot CAB doc started. 
+
+
+Friday
+    Todo:
+      - Clean up DD agents [SYS-18838] *
+      - Pair with Triston After Standup for keys (Jira - Nessus) [SYS-17622]
+      - Two CAB docs for pre-review today ( Reboot and RDS ) [SYS-17891]
+      - FedRamp Lower environment reboots today. ( Abdel + who? ) [SYS-18893] * 
+      - Need to Clean up my inbox as it's just inundated and I am missing things coming in. 
+
+    Actual: 
+      - Cabs Ready for pre-review
+      - Paired with Tristan. Ticket Blocked until he's back from R&R.
+      - Update Namespace Dox PR [Done]
+      - Fixed my GPG keys to commit Verified to GH.
+
+Notes:
+  Still need to:
+    Install LDAP Tool
+    Install eyaml
+

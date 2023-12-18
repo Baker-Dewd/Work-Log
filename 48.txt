@@ -1,0 +1,71 @@
+Monday: 
+  Todo: 
+    - (SYS-18958) Manitopa Crodba connection. ( Followed up with Micheal )
+    - (SYS-19129) Missing Tables. ( Waiting for response )
+    - (SYS-19067) FlintBox RDS in Nagios
+    - (SYS-19252) Add LMCO Directories to Puppet
+    - (SYS-19302) Monash Crodba ( Got started, might help understanding Manitoba )
+    - Sprint Activities.
+
+  Actual: 
+    - Watcher
+    - - SYS-19319 ~ IS_FEDRAMP
+    - - SYS-19395 ~ Move File from Cron Server [ Sidebar for Gannt ]
+    - - SYS-19067 ( One minor change to add : Is Replica: True )
+  
+Tuesday: 
+  Todo:
+    - - SYS-19319 ~ IS_FEDRAMP
+    - - SYS-19395 ~ Move File from Cron Server [ Sidebar for Gannt ]
+    - - SYS-19067 ( One minor change to add : Is Replica: True )
+    - - Plus the Log / Cron request that's yet to be made. 
+
+Sidebars -->
+  - It was noted we are setup, but other requests after setup the job falls to highlander. 
+  - - For access that was requested yesterday, who actually owns that? Especially since Eric has the access?
+  - - ( SII-6261 ) VAsandbox Okta Login - Ryan Davis
+  
+  Actual: 
+  - Watcher 
+  - - (SYS-19362) ~ Lockheed not receiving integration summary emails
+  - - (SYS-19353) ~ Flush Hosts for Umanitoba
+  - 
+
+Wednesday: 
+  Todo:
+    - Tickets above
+
+  Actual: 
+    - Completed 5 tickets.
+    - Took in 6 watcher tickets. 
+    - - SYS-19358 ~ Jira Passwd
+    - - SYS-19370 ~ Run command on Sophia Gov
+    - - SYS-19359 ~ Move file on cron server (x2)
+    - - SYS-19067 ~ Flintbox white label RDS instances
+    - - SYS-19353 ~ Unblock Umanitoba with flush hosts.
+
+
+Thursday: 
+  Todo:
+    - SYS-19362 ~ Lockheed Integration emails
+    - SYS-19319 ~ Jenkins Env variable
+        
+  Actual: 
+    - SYS-19376 ~ Move file for LMCO 
+    - SYS-19363 ~ Move file to for_wellspring
+    - SYS-19362 ~ Lockheed Integration emails [ Pending review ]
+    - SYS-19319 ~ Jenkins Env variable ( In Progress )
+    - 
+
+
+Friday
+  Todo:
+    - Backups 
+    - SYS-19377 - File server mount missing on www02-qa-gov01
+    - 
+
+  Actual: 
+    - 
+
+      
+

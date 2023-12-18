@@ -1,0 +1,69 @@
+Monday: 
+  Todo: 
+    - Unable to download files on QA. (SYS-19092) ***
+    - Create Nessus Ticket (Blocked) 
+    - [ REMOVED ] Complete the backup for Lumenisity (SYS-19073) **
+    - Look for or create a ticket to update RDS checks after upgrade. 
+
+  Actual: 
+    - Created SYS-19096 for RDS checks for next sprint. 
+    - Quieted alerts for sb01-prod.ca04. [host]
+    - Snoozed borked alerts for Abdel 
+    - Triaged alerts most of the afternoon
+ 
+Tuesday: 
+  Todo:
+    - [ Discuss Traige for other borken alerts. ]
+    - [ Planning Tuesday ] Make Cabs for CA RDS instance performance resolution.
+    - Merge and Apply PR (SYS-19097)
+    - SYS-19092 - STFP 
+    - 
+ 
+  Actual: 
+    - SYS-19092 SFTP issues 
+    - Apply PR to fix EU SFTP ( SYS-19097 )
+    - Created patching tickets and started on the lowers. ( SYS-19115 )
+    - 
+
+Wednesday: 
+  Todo:
+    - continue on the lowers. ( SYS-19115 ) **
+    - Canada Resize Tickets. 
+    - Failed Alert Invesitgation (SYS-19122)
+      - 
+
+  Actual: 
+    - Created Capa for libwebp ( SYS-19115 ) **
+      - Received errore on puppet deply. 
+      - Closed Both prod and non-prod. 
+        - Patches not available
+        - libwebp not affected on RH / C 7
+    - Rolled back Pbwebp R in Dev. 
+    - Started the Canada Resize Tickets. (1/2 Done)
+    - Failed Alert Invesitgation (SYS-19122)
+      - 
+
+Thursday: 
+  Todo:
+    - Sumologic Weekly review (SYS-18697)
+    - Failed Alert Invesitgation (SYS-19122) **
+    - Patch Python3 on Sophia-cron01-dev-gov01 (SYS-19124)
+        
+  Actual: 
+    - Sumologic Weekly review (SYS-18697)
+    - Failed Alert Invesitgation (SYS-19122) **
+    - Patched Python3 on Sophia-cron01-dev-gov01 (SYS-19124)
+      - Must observe to see if puppet puts it back. Didn't! 
+
+Friday
+  Todo:
+    - Training that should have been done after onboarding.
+    - Dynatrace Rationale
+    - Failed Alert Invesitgation (SYS-19122) ***
+
+  Actual: 
+    - Failed Alert Invesitgation (SYS-19122) ***
+    - Vulnerability Ticket Completed (SYS-17700)
+
+      
+

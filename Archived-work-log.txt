@@ -1,0 +1,589 @@
+Monday: 19th
+- Pass
+  Spent the morning learning about pass 
+  I asked Travis Just before Noon and he explained it Wasn't sysops-pass but the sysops-docs repo I needed. Done after long lunch. 
+  Lastpass extension installed 
+  Learned the Google meet app will dump you into an empty room instead of your meeting. Check the name a the bottom left of the screen to verify you're in the correct room. 
+  Completed the Mandetory infosec training
+
+
+Tuesday: 20th
+
+  Todo: 
+    Get the apache ldap tool installed to change my password.
+    Sign and test my keys and remember my passphrase. (Done)
+    Finish setting up my laptop. (Constant Process)
+    Need to find a time to shadow Thomas (Done)
+
+  Actual: 
+    Met with Tristan over Jira, 
+    Install and configure Karbiner   
+    Time SCheduled with Thomas for Weds. 
+    Installed the Amethyst tiling manager and spent time making it work. 
+      Aborted as it doesn't support this version of MacOS
+    1:1 with Daniel
+
+Wednesday: 21st
+
+  todo: 
+    Sign and test my keys. (Done) 
+    Install the ldap tool
+    Look for tickets to work on from the team.
+
+  Actual: 
+    Team Meeting. 
+    Shadow with Thomas. Received all kinds of Nagios info. 
+    More env setup. This time for aws. (Python, venv, aws CLI)
+    Received new tickets.
+    Capa at 3.    
+    I can now access passwords in pass. ( Tested password retrieval in pass ) 
+    Huddle with Brady at 4 to learn how to set up datasources. 
+      Having issues with MFA and awscreds ~ Testing.
+    
+
+Thursday: 22nd
+    
+  Todo:
+    Sort AWS script for access ( Brady helped get me there but it's not accepting the OTP )
+    Get started on poking through the tickets. 
+    Get with Brandy on the data sources once the AWS issue is fixed. 
+    
+  Blocker:
+    AWS not accepting my OTP at the CLI
+
+  Actual:
+    Meetings till Noon
+    Abdel and I helped each other out with running reports and we sorted my aws issue. 
+    Went over gpg and pass with Jose, and Thomas
+    paired with Brady and attended the security review. 
+
+Friday: 
+  Query: 
+    Sumo - Data Tiering. Is this an approved event?
+  
+  Todo:
+    Datasources with Brady
+    Python environment for scripts with Geoff and ABdel ( Hopefully )
+    Trust keys in sysops-pass. Jose pointed out I still have some work to do there. 
+    
+  Actual: 
+    Sorted out pyenv with Gavin and Abdel
+    Ran isoaudit.py as an exercisee
+    paired with Brady to get needed info for Quicksight data sources
+    completed 3 of 4 data sources
+      Missing dal_kms database in eu-central-1 and lacked information on what, if anything, needed to be created with or inserted into the database or I would have created it. 
+      Found the Dox detailing how to create an RDS instance for the DB but preferred to wait to make sure that was the correct step. 
+      
+Monday 
+Todo: 
+  Trust keys
+  Add passwords to pass
+
+  
+
+    
+     
+
+         
+Monday 26th : 4M ~ 3W  
+Todo :
+  Trust keys
+  Add passwords to pass
+  complete last quicksite datasource
+
+Actual : 
+  Keys Trusted
+  4th Datsource setup for quicksite. 
+  Moar tweeks to my environment. 
+
+Tuesday : 4M ~ 3.5W
+  Todo:
+    Add quicksite datasource passwords to pass. 
+      Need to get the proper path for the datasource passwords *
+    Want to start on 17622 Nessus automation. Need to be shown the scripts to run for routing to nessus.   [B]
+
+  Actual: 
+    Discussed and acquired new tickets for next sprint. 
+    Huddled with Travis to go over Tenable automation workflow.
+    HUddled with Daniel to go over the cloudflare cutover. ( till 10 )
+   
+Wednesday : 2M ~ 4W : 5:after
+  Todo : 
+    Still need to add the passwords for datasources ( get path ) **
+    Switch my browser from brave to chrome. **
+    Capa and compliance this afternoon
+    AP EU ~ Cutover
+  Actual : 
+    Assist in Debugging QA cut-over in US servers. 
+    Updating script to sort aws domain export 
+    Switched over US, AP and EU to Cloudflare 
+    Debugged a datasource I had fat fingered the user name on. (issue)
+
+Thursday : 1.5M ~ 5W : 2:After
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. *** 
+    Update datasource in AWS and get back to Dan Keinz 
+  Actual :
+    Hammered against gpg -local key not found. ( Spent an embarrasing amount of time )
+    Fixed my GPG with Daniel during the 1:1 
+    Met with Abdel and Jose to discuss backups
+    
+Friday: .5M ~ 2W : 4Comp
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. *** 
+    Update datasource in AWS and get back to Dan Keinz 
+  Actual : 
+    Data sources added to pass and uploaded.
+    Chrome being a bugger. 
+    Requested access to modify / delete datasources from Thomas. 
+      Should have access. Need to Learn the correct format for the update. 
+
+Saturday: 
+  Backups
+Wednesday: 
+  ToDo
+    Started the day out high maint. 
+    Solr alerts spike
+    
+Friday: .5M ~ 2W : 4Comp
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. ***
+    Update datasource in AWS and get back to Dan Keinz
+  Actual :
+    Data sources added to pass and uploaded.
+    Chrome being a bugger.
+    Requested access to modify / delete datasources from Thomas.
+      Should have access. Need to Learn the correct format for the update.
+
+Saturday: 3
+  Backups
+
+Monday:  Holiday
+Tuesday: Holiday
+
+       
+Wednesday: 2.5M 4.5W ~ July 5th. 
+  ToDo
+    Started the day out high maint.
+    Update Datasources
+    Solr alerts spike
+  Actual: 
+    Chrome switchover complete
+    1:1 ~ Get with Travis and Abdel on Nessus operation
+      Conversed briefly in chat over Thursdays Logjam for Nessus plans + tickets
+    Update Datasource completed and documentation started. Where to put it?
+    Started in on the Solr alert ticket. 
+
+Thursday: 3.5M 2.5W ~ July 6th.
+    Todo: 
+      Follow up with Jira vendor.
+      Solr alerts. 
+      Add Quicksite update data.
+
+    Actual:
+      Updated another datasource. 
+      Met with Travis, Andrew and Abdel to discuss plans for Nessus handogg
+      Sumo pairing with Brady and Abdel 
+      Added update and validate datasources portions to quicksite documentation
+      
+Friday: 
+    Todo: 
+      Follow up with JIra Vendor. **
+      Whatever Tickets I can finish today. **
+      Do I unlock the EU envs today? ( NO. Not until done Pen Testing. )
+      Where is the solr panel? ( In Nagios. )
+    Actual: 
+      Created the Smart Lists for Abdels Pre-Cab.
+      Completed UAMS Production certificate with Travis. 
+      Pre-cab review with Abdel, Brady, Jose.  
+      Pinged Contegix and received a ticket over the weekend.  
+      Finally got started on Solr but need more data to finish the ticket. 
+
+Sprint End / Start
+Monday: 2M 4W
+  Todo: 
+    End of Sprint Activities
+    I too expect to work with Travis the rest of the week. 
+    Solr Alerts - 1 Point? Knowledge gathering. 
+    Quicksight Tickets 
+
+  Actual: 
+    Unlocked Regions in source. 
+    Sprint planning.
+    Quicksight Tickets. 
+
+  Notes: 
+    Were the tickets I referenced with Tristan in chat for the other sprint?
+
+Tuesday: 5M 1W
+  Todo: 
+    Pairing with Travis.
+    Quicksight Setups. **
+    DataDog.
+    Paired with Abdel.
+      Bring up Duplicate / Vague tickets for jira certs 
+  Actual: 
+    Matches Todo.
+
+Wednesday: 5.5M 1.5W
+  Todo:
+    Quicksight Tickets. ***
+    Pairing with Travis
+    Harassment training
+  Actual: 
+    Team Meeting
+    Pairing with Travis
+    Quicksight tickets.
+  Blocker: 
+    Namespace Permissions to Operate quicksite tickets.
+      Considered creating the role manually last night but need to inquire
+      if there is a preferred method to automate. This is a POC.    
+
+Thursday: 4M 4W 
+  Todo:
+    Namespace / Quicksight **** ( Travis Off boarding took Pri )
+    Meetings.
+  Actual:
+    Pairing / Offboarding w/ Travis and Abdel and team.
+    Added QuickSight Admin to Brady. Should fix her QS access.
+    Briefly worked on Jenkins. 
+    
+Friday: 
+  Todo:
+    Namespace / quicksight focus. Deadline today.
+  Actual: 
+    App Dynamics
+    Training
+    VA Namespace created + re-created datasource - Va is done. 
+Monday: 
+  Todo: 
+    Clean up servicediscovery namespace I created.
+    Clean up old datasource.
+    Create namespaces for DOE, IPKMS. 
+    Datasource made for GU.
+    Add namespace documentation to quicksight cli page. 
+  Query, Can we involve Brady with software testing to help debug problem clients?
+  
+  Actual: 
+    DOE and IPKMS Namespaces are created but Datasources were not
+      Moved the tickets back to in progress. 
+      Need to learn where to log into the fedramp DB to create datasources
+      *then assign them to the namespace group. 
+    
+Tuesday: 
+  Todo:
+    Create Datasources for DOE and IPKMS
+    Cleanup and Document
+    
+  Actual: 
+    Discovered the Fedramp datasource group had been deleted. 
+    Spent most of the afternoon figuring out how to recreate, or proceed without it. 
+    DOE Datasource created, group membership added, passsed to Dan to test. 
+      Without the new datasource group. *may not be needed* 
+      Need a group with no read access to the DS maybe?
+
+Wednesday: 
+  Todo:
+    Connect with Dan K to validate Datasource
+    Complete ipkms datasource
+    DataDog Cloudflare meetings this afternoon
+    Drill and document namespace / quicksight  
+
+  Actual: 
+    DOE Datasource Validated and group membership revoked
+    DataDog Cloudflare meetings
+      CloudFlare should be easy adds. 
+      Translates well to firewall applications I Have a lot of experience with.
+    Drill and document namespace / quicksight  
+    Some Nessus Scans came up and tickets are being created
+    
+Thursday: 
+    Todo:
+      IPKMS
+      Documentation
+      Nessus Tickets
+    Actual: 
+      Dan K signed off on DOE
+      IPKMS Mostly done. Need a VPC added
+        sg-0c486ce682e34350f - gov01-prod-quicksight-rds-access
+        lmco-db01-prod-gov01
+      Logjam I/II 
+      Sentinal / Sumo log review
+      Documentation started.
+
+Friday
+    Todo:
+      IPKMS - Need a VPC Added for Quicksight access. 
+        BLOCKED BY VPC / ACCESS
+      Solr Alerts
+      Log Analysis
+      Ask to Pair with Triston to go over Jira - Looking for the Kanban and lost tickets. 
+    Actual: 
+      IPKMS Rolled to next sprint
+      Went over Jira with Triston
+      Solr Done, 
+        haz question about obsessing. Notifications disabled.    
+      Met with Dyna Trace
+      Intend to complete Log Analysis today.
+        Son Injured his eye Friday evening. 
+      CloudFlare alert over the weekend. 
+  
+
+
+
+Monday: 
+  Todo: 
+    Log Analysis
+      Intend to complete Log Analysis today.
+        Son Injured his eye Friday evening. 
+
+  BLOCKER: 
+    Need Admin app access to Jira to resolve integration ticket
+    Blocked Ticket is not showing up in my lists. 
+  Jury Summons
+
+  Actual: 
+    Nessus rebooted - Cab cloned and updated. (SYS-18858)
+    Spike for Solr alerts (Resolved) (SYS-18717)
+    Nessus - Last Login Query (SYS-18749)
+    Review Logs related to SQL Inj - (SYS-18851
+  
+Tuesday: 
+  Todo:
+    ipkms
+    Get a schedule set up for trials. 
+      Follow-up with Dyna trace. ~ No emails from them. 
+    Tickets after ipkms  
+  
+  Actual: 
+    ipkms fixed
+    Pairing with Abdel, Jose to test script. 
+
+Wednesday: 
+  Todo:
+    IPKMS Finish
+    Jury Duty appearance
+    App Dynamics Demo
+
+  Actual: 
+    Jury Duty Appearance
+    App Dynamics Demo
+      Anyone want to volunteer to create Python scripts to scrape websites for Synthetics?
+    CAPA
+    IPKMS Completed
+    
+Thursday: 
+    Todo:
+      Namespace Documentation
+      Setting up for DataDog Demo
+      Looking into the Sophia Site slowness
+        Brady can I get info on the servers that serve up the slow client. 
+        
+    Actual: 
+      1:1 
+      Namespace Dox done. PR pending.
+      Sumotomo Security Log Review
+      Fighting my ENvironment
+
+Friday
+    Todo:
+      More Env stuff
+      Pre-review      
+      Setting up for Datadog Demo next week
+      Investigating slow client lag. 
+
+    Actual: 
+      SYS-18865
+        Remove Travis McDermott Quicksight Admin user
+      SYS-18873
+        add variables to the .env prod file for flintbox
+        eyaml would not install on my box
+        Brady had issues with her gpg keys
+      Incident with Umich
+      
+
+Monday: 
+  Todo: 
+    Watcher
+    SYS-18873 - Env Variables for FlintBox.
+    Beginning DataDog Demo
+
+  Sidebar: 
+    Where to put Namespace Dox
+      At the end of Qujicksight
+    Does Watcher or On-Call assist with Dpeloys?  
+      Watcher
+      
+  Actual: 
+    Flint Box release ( Script made / started ) 
+      ( Ty for the expert guidance brady )
+
+Tuesday: 
+  Todo:
+    Watcher 
+    Datadog Trial setup
+    Break up Watcher ticket into 2 point chunks. 
+    Make Tickets for CF Integrations
+    
+  Actual: 
+    Watcher - Notes about SSH request
+    DDA on 4 JP Dev hosts. 
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    Archive Server logs for Umich Incident
+        
+
+Wednesday: 
+  Todo:
+    Watcher
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    DDA Alerting
+
+  Actual: 
+    1:1
+    Team Meeting
+    cron01-gov Incident Discovery.
+    Ticket Generation for issues covered in 1:1
+
+### Tickets ###
+    need story to finsih the puma restart script? ( sys-18899 ) 
+    Need story to finish integrations with CF? ( Sys-18900 )
+    Can we have a running story for alert cleanup? ( sys-18901 ) 
+    Are we going to clean up the mail systems on hosts? ( sys-18902 ) 
+    Ticket for PagerDuty non-configuration ( CAPA-6893 / sys-18903 )
+
+Thursday: 
+  Todo:
+    Watcher
+    DDA Dashboard Creation
+    DDA Live Process Setup
+    DDA Alerting
+
+### Apologies for missing Selene's request re: Duo. 
+      I had been seeing all the Jenkins spam and didn't look closer. 
+      Place Jenkins Notifs in a Jenkins channel?
+     
+      Follow up with Jose to look for Log4j in Nessus. 
+   
+###   Pluralsight - Eric runs it. Karl Kell Backup? 
+    Sophia Log files to Google Drive.  / Ask Trison to delete my Capa ticket.
+    Dear GOD the amount of noise.. ( Make Filters ) .
+
+Notes: 
+  Still need to: 
+    Install LDAP Tool
+    Install eyaml
+    Update Namespace Dox
+
+    Actual: 
+      LogJam I&II
+      Cron01-gov 
+           
+
+Friday
+    Todo:
+      Gsuite MFA Investigation 
+
+    Actual: 
+      Make Tennable / Nessus tickets for remdiation
+        Couldn't make an Ops Issue ticket right from Jira ( That I found ) 
+        Made an Ops Request and made issues from the checklists. 
+    Watcher: 
+      Reboot Nessus scanning agent server
+      
+
+Monday: 
+  Todo: 
+    DD Continuation
+    Nessus / Tenable Tickets
+        
+
+  Actual: 
+    To Delete
+      SYS-18917
+      SYS-18918
+      SYS-18932
+      SYS-18917
+      SYS-18927
+    CF to SL Completed
+    
+
+Tuesday: 
+  Todo:
+    Site slow speed (Ca)
+    Sumo account review
+    CF 2 SL: Testing and Observation
+    Alert Noise Reduction 
+  
+  Actual: 
+    - CF2SL - Success Confirmed
+    - Site slow speed (Ca) (SYS-18732
+        Only 4G, Swap looks *pegged* lets try 8G Ram
+    - Slow File Upload Times in EU (SYS-18877)
+        Started Team conversation with Selene. 
+    - Alert Noise Cleanup (SYS-18901)
+        Going after '/opt/sentinelone/rpm_mount' 
+          'shiny-octo/modules/icinga_client/manifests/check/disk/
+          Adding the path to $ignore_paths: /opt/sentinelone/rpm_mount
+
+Wednesday: 
+  Todo:
+    - Pairing with Triston for Jira Integrations
+    - Clean up DD agents. 
+        No longer looking at DD
+    - PR for Cleaning up noise in Icinga
+    - PR for Increase in Resources for RDS
+  
+
+  Actual: 
+    - Team Meeting
+    - Pair with Triston
+        Need to Generate Keys in Teneble.sci for Jira. 
+    - :: Lunch
+    - Helped Abdel with Cloudflare login briefly. 
+    - PR for Cleaning up Noise in Icinga. (SYS-18901)
+    - PR for Increasing RDS instances in Canada. (SYS-18732)
+  
+   
+----> 
+  What is Steve Gonzalas Feedback?
+  Can we get a pending status in Jira for tickets that are waiting on others but not blocked?
+  
+Thursday: 
+    Todo:
+      - Help Sue with Google Forms. (She fixed her own problem)
+      - CAB Doc for Increase in RDS
+      - CAB Doc for Reboots
+      - Sumo Integrations 
+      - Nessus Keys for Jira 
+      - Interview
+
+    Actual: 
+      - Morning Meetings / Interview
+      - Keys Ready for Triston. 
+      - Reboot CAB doc started. 
+
+
+Friday
+    Todo:
+      - Clean up DD agents [SYS-18838] *
+      - Pair with Triston After Standup for keys (Jira - Nessus) [SYS-17622]
+      - Two CAB docs for pre-review today ( Reboot and RDS ) [SYS-17891]
+      - FedRamp Lower environment reboots today. ( Abdel + who? ) [SYS-18893] * 
+      - Need to Clean up my inbox as it's just inundated and I am missing things coming in. 
+
+    Actual: 
+      - Cabs Ready for pre-review
+      - Paired with Tristan. Ticket Blocked until he's back from R&R.
+      - Update Namespace Dox PR [Done]
+      - Fixed my GPG keys to commit Verified to GH.
+
+Notes:
+  Still need to:
+    Install LDAP Tool
+    Install eyaml
+

@@ -1,0 +1,79 @@
+Monday: 
+  Todo: 
+    - Pair with Brady to reboot lower envs before CAB (Closes SYS-18838) **
+    - Remove DD agents from Japan. (Closes SYS-18893) **
+    - Apply TF plan for Alert Noise (Closes SYS-18901) *
+    - Clean up Inbox, make filters if time permits today..
+
+  Actual:
+    - Lower Envs rebooted. SYS-18838 closed
+    - DD Agents cleaned from Japan : (SYS-18838) Closed
+    - Inbox Half cleaned ( Over 500 email ) 
+    - Started progress on configure Pager Duty (SYS-18903)
+  
+Tuesday: 
+  Todo:
+    - Apply TF plan for Alert Noise (Closes SYS-18901)  **
+    - Configure Pager Duty (SYS-18903) *
+    -  
+  
+Actual: 
+    - Morning Meetings
+    - Investigate Evening False alerts. 
+
+Wednesday: 
+  Todo:
+    - Apply TF plan for Alert Noise (Closes SYS-18901)  ***
+    - Submit AWS Ticket for Network connectivity (SYS-18959)
+
+  Actual: 
+    - AWS Ticket Submitted Case ID 13574899221
+    - Meet with CAPA (Poam) Rebooted the wrong Nessus server and I hadn't checked. 
+    - Install tfswitch - Read up on apply and patch process. (Needed for (SYS-18901))
+    - 
+    
+Thursday: 
+  Todo:
+    - Patching Lowers
+    - Hiera-Eyaml install 
+        
+  Actual: 
+    - Hiera eyaml install completed in the afternoon
+    - log4j persistance. Won't go away with update. 
+      - Resolved in Ticket SYS-18929
+    - Sumo Review
+      - Linked and told Andrew about the log4j ticket. 
+    - Alert Noise Cleanup Applied Closed SYS-18901
+      - Monitoring
+    - SYS-19862 Created - %15 Disk free on ops-monitor01-prog-gov
+    - SYS-18963 Created - %10 Disk Free on ops-puppet01-prod-govmgmt 
+    
+
+Friday:
+    Sidebar: 
+      - Discuss Transit Gateway MTU of 8500 in Jumbo frame env.
+        https://medium.com/in-the-hudl/operation-jumbo-drop-how-sending-large-packets-broke-our-aws-network-ff5041fc7a09
+        https://medium.com/seek-blog/beware-of-transit-gateways-bearing-large-packets-77702c4c1b20
+      - Do I join the Wellspring Sophia Migration meeting?
+          Yes
+      - Can we reach out to ppl that have locked envs on Fridays?
+          "Not our problem."
+
+  
+    Todo:
+      - Patching lower envs
+      - Prepare Cab for Patching
+      - Review and revise CAB for 
+
+
+    Actual: 
+      - Assisted Abdel with quicksight. (SYS-18783)
+      - Prepared and presented two CABs
+      - Server Reboots Saturday
+      - 
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+Monday: 19th
+- Pass
+  Spent the morning learning about pass 
+  I asked Travis Just before Noon and he explained it Wasn't sysops-pass but the sysops-docs repo I needed. Done after long lunch. 
+  Lastpass extension installed 
+  Learned the Google meet app will dump you into an empty room instead of your meeting. Check the name a the bottom left of the screen to verify you're in the correct room. 
+  Completed the Mandetory infosec training
+
+
+Tuesday: 20th
+
+  Todo: 
+    Get the apache ldap tool installed to change my password.
+    Sign and test my keys and remember my passphrase. (Done)
+    Finish setting up my laptop. (Constant Process)
+    Need to find a time to shadow Thomas (Done)
+
+  Actual: 
+    Met with Tristan over Jira, 
+    Install and configure Karbiner   
+    Time SCheduled with Thomas for Weds. 
+    Installed the Amethyst tiling manager and spent time making it work. 
+      Aborted as it doesn't support this version of MacOS
+    1:1 with Daniel
+
+Wednesday: 21st
+
+  todo: 
+    Sign and test my keys. (Done) 
+    Install the ldap tool
+    Look for tickets to work on from the team.
+
+  Actual: 
+    Team Meeting. 
+    Shadow with Thomas. Received all kinds of Nagios info. 
+    More env setup. This time for aws. (Python, venv, aws CLI)
+    Received new tickets.
+    Capa at 3.    
+    I can now access passwords in pass. ( Tested password retrieval in pass ) 
+    Huddle with Brady at 4 to learn how to set up datasources. 
+      Having issues with MFA and awscreds ~ Testing.
+    
+
+Thursday: 22nd
+    
+  Todo:
+    Sort AWS script for access ( Brady helped get me there but it's not accepting the OTP )
+    Get started on poking through the tickets. 
+    Get with Brandy on the data sources once the AWS issue is fixed. 
+    
+  Blocker:
+    AWS not accepting my OTP at the CLI
+
+  Actual:
+    Meetings till Noon
+    Abdel and I helped each other out with running reports and we sorted my aws issue. 
+    Went over gpg and pass with Jose, and Thomas
+    paired with Brady and attended the security review. 
+
+Friday: 
+  Query: 
+    Sumo - Data Tiering. Is this an approved event?
+  
+  Todo:
+    Datasources with Brady
+    Python environment for scripts with Geoff and ABdel ( Hopefully )
+    Trust keys in sysops-pass. Jose pointed out I still have some work to do there. 
+    
+  Actual: 
+    Sorted out pyenv with Gavin and Abdel
+    Ran isoaudit.py as an exercisee
+    paired with Brady to get needed info for Quicksight data sources
+    completed 3 of 4 data sources
+      Missing dal_kms database in eu-central-1 and lacked information on what, if anything, needed to be created with or inserted into the database or I would have created it. 
+      Found the Dox detailing how to create an RDS instance for the DB but preferred to wait to make sure that was the correct step. 
+      
+Monday 
+Todo: 
+  Trust keys
+  Add passwords to pass
+
+  
+
+    
+     
+
+         

@@ -1,0 +1,66 @@
+Monday: 
+  Todo: 
+    - Cloudflare cutover documentation
+    - Security Training
+    - Sprint End activity
+
+  Actual: 3.5 hr. 
+    - Nessus Vulnerability check ( More haxx )
+    - Sprint Activities
+    - Cloudflare Dox
+    - Light watcher 
+      - Lock Wait (SYS-19248)
+  
+Tuesday: 
+  Todo:
+    - Libcurl Patching (SYS-19147) ( Lowers )
+    - Complete the CAB for JP and CA. 
+     
+  Actual: 3hr.
+  - I didn't work on anything I had intended to yesterday. 
+    
+    - Completed Cloudflare dox for CABs. ( PR# )
+    - Documented server performance for Canada RDS 
+      - SYS-19248 - Passed to Highlander ( Sean )
+      - Marked as Won't Do in our sprint. 
+    - SYS-19239 - Looked into DB usage on Sentinel One. (Jenkins)
+      - Ty to Brady and Gavin for fixing my access to S1 and Jenkins Host. 
+-->   - Sidebar: Can I reboot this as a breakfix? 
+    - Checked Nagios hosts during Town hall and All hands. 
+
+Wednesday: 
+  Todo:
+    - Libcurl Patching (SYS-19147) ( Lowers )
+    - Complete the CAB for JP and CA. 
+    - SYS-19239 - Sentinel One on Jenkins 
+
+  Actual: 
+    - Reviewed Cloudflare dox with Danmiel + received Gavin's input. Ty both. 
+    - SYS-19239 - Sentinel One on Jenkins - Complete, restarted the service. 
+    - SYS-19254 - Nagios service down - Complete, restarted service. 
+    - SYS-19259 - Connect AWS workspace to SRNLK SFTP server.- In progress.
+    - Infosec Training - Complete. 
+
+Thursday: 
+  Todo:
+    - SYS-19259 - Connect AWS workspace to SRNL SFTP server.- In progress.
+    - CAB dox and Lower env Vuln Patching. 
+
+--> Sidebar: We burned up all the points on this weekd's watcher ticket by Weds afternoon. 
+--> Sidebar: Leave really fast watcher tickets at 0 or 1 point to track activity. 
+--> Need to document my Time off. 
+        
+  Actual: 
+    - SYS-19259 - Connect AWS workspace to SRNL SFTP server.- In progress.
+    - CABs JP CF + Vuln Patching. 
+    - Tumasang consumed my entire day. Precab will not be ready until about Noon.  
+
+Friday
+  Todo:
+    - OFF - Took Mom to Canton. 
+
+  Actual: 
+    - 
+
+      
+

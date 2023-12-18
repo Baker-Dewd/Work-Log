@@ -1,0 +1,71 @@
+Monday: 
+  Todo: 
+    Log Analysis
+      Intend to complete Log Analysis today.
+        Son Injured his eye Friday evening. 
+
+  BLOCKER: 
+    Need Admin app access to Jira to resolve integration ticket
+    Blocked Ticket is not showing up in my lists. 
+  Jury Summons
+
+  Actual: 
+    Nessus rebooted - Cab cloned and updated. (SYS-18858)
+    Spike for Solr alerts (Resolved) (SYS-18717)
+    Nessus - Last Login Query (SYS-18749)
+    Review Logs related to SQL Inj - (SYS-18851
+  
+Tuesday: 
+  Todo:
+    ipkms
+    Get a schedule set up for trials. 
+      Follow-up with Dyna trace. ~ No emails from them. 
+    Tickets after ipkms  
+  
+  Actual: 
+    ipkms fixed
+    Pairing with Abdel, Jose to test script. 
+
+Wednesday: 
+  Todo:
+    IPKMS Finish
+    Jury Duty appearance
+    App Dynamics Demo
+
+  Actual: 
+    Jury Duty Appearance
+    App Dynamics Demo
+      Anyone want to volunteer to create Python scripts to scrape websites for Synthetics?
+    CAPA
+    IPKMS Completed
+    
+Thursday: 
+    Todo:
+      Namespace Documentation
+      Setting up for DataDog Demo
+      Looking into the Sophia Site slowness
+        Brady can I get info on the servers that serve up the slow client. 
+        
+    Actual: 
+      1:1 
+      Namespace Dox done. PR pending.
+      Sumotomo Security Log Review
+      Fighting my ENvironment
+
+Friday
+    Todo:
+      More Env stuff
+      Pre-review      
+      Setting up for Datadog Demo next week
+      Investigating slow client lag. 
+
+    Actual: 
+      SYS-18865
+        Remove Travis McDermott Quicksight Admin user
+      SYS-18873
+        add variables to the .env prod file for flintbox
+        eyaml would not install on my box
+        Brady had issues with her gpg keys
+      Incident with Umich
+      
+

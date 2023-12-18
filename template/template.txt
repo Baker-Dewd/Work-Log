@@ -1,0 +1,37 @@
+Monday: 
+  Todo: 
+    - 
+
+  Actual: 
+    - 
+  
+Tuesday: 
+  Todo:
+    - 
+  
+  Actual: 
+    - 
+
+Wednesday: 
+  Todo:
+    - 
+
+  Actual: 
+    - 
+
+Thursday: 
+  Todo:
+    - 
+        
+  Actual: 
+    - 
+
+Friday
+  Todo:
+    - 
+
+  Actual: 
+    - 
+
+      
+

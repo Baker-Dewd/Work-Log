@@ -1,0 +1,62 @@
+Monday 26th : 4M ~ 3W  
+Todo :
+  Trust keys
+  Add passwords to pass
+  complete last quicksite datasource
+
+Actual : 
+  Keys Trusted
+  4th Datsource setup for quicksite. 
+  Moar tweeks to my environment. 
+
+Tuesday : 4M ~ 3.5W
+  Todo:
+    Add quicksite datasource passwords to pass. 
+      Need to get the proper path for the datasource passwords *
+    Want to start on 17622 Nessus automation. Need to be shown the scripts to run for routing to nessus.   [B]
+
+  Actual: 
+    Discussed and acquired new tickets for next sprint. 
+    Huddled with Travis to go over Tenable automation workflow.
+    HUddled with Daniel to go over the cloudflare cutover. ( till 10 )
+   
+Wednesday : 2M ~ 4W : 5:after
+  Todo : 
+    Still need to add the passwords for datasources ( get path ) **
+    Switch my browser from brave to chrome. **
+    Capa and compliance this afternoon
+    AP EU ~ Cutover
+  Actual : 
+    Assist in Debugging QA cut-over in US servers. 
+    Updating script to sort aws domain export 
+    Switched over US, AP and EU to Cloudflare 
+    Debugged a datasource I had fat fingered the user name on. (issue)
+
+Thursday : 1.5M ~ 5W : 2:After
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. *** 
+    Update datasource in AWS and get back to Dan Keinz 
+  Actual :
+    Hammered against gpg -local key not found. ( Spent an embarrasing amount of time )
+    Fixed my GPG with Daniel during the 1:1 
+    Met with Abdel and Jose to discuss backups
+    
+Friday: .5M ~ 2W : 4Comp
+  Todo :
+    Still need to add the passwords for datasources (get path) ***
+    Switch my browser from brave to chrome. *** 
+    Update datasource in AWS and get back to Dan Keinz 
+  Actual : 
+    Data sources added to pass and uploaded.
+    Chrome being a bugger. 
+    Requested access to modify / delete datasources from Thomas. 
+      Should have access. Need to Learn the correct format for the update. 
+
+Saturday: 
+  Backups
+Wednesday: 
+  ToDo
+    Started the day out high maint. 
+    Solr alerts spike
+    

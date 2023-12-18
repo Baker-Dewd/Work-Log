@@ -1,0 +1,77 @@
+Monday: 
+  Todo: 
+    - Reboot Lowers 
+    - Cab
+    - CloudFlare Alerts. ( 500s, any others? )
+
+  Actual: 
+    - Cab approved
+    - CloudFlare Alerts: 
+      - I pointed the Cloudflare alerts based on Subologic alerts
+      - CloudFlare is proving to have a learning curve that will 
+      - Take more than the 2 points. 
+    - Was available with Triston a bit last night for Jira. 
+
+  
+Tuesday: 
+  Todo:
+    - CloudFlare, 
+    - Switch to Icinga alerts / CPU etc. 
+  
+  Actual: 
+    - Learning Puppet. 
+      - One learning vurve for another, but this one I know the desired outcome. 
+
+Wednesday: 
+  Todo:
+    - Puppet. There's two tickets. 
+
+  Actual: 
+    - Puppet
+      - Started setting up my Env for Puppet dev
+      - Gavin suggestions as well as Eric? (chicohernando)
+      - Capa meeting for the upcoming vuln patching. 
+      
+ 
+Thursday: 
+    Todo:
+      - CAB for Next Sprints Vuln Patching (Important)
+        - Would like to not be done at the last minute. 
+        - Almost caught a pair of Poams
+      - Want to set up a sandbox puppet server to:
+        - Work out my puppet skills
+      - Config a dev env in the CLI. 
+        - developing code for Debian should be on Debian servers.
+        - May fall back to Gui but that bugs me. 
+      - Do we have ruby linters and githooks? 
+      
+Sidebar
+- Two Conversations: 
+    - Load numbers. We need only the first number, not all three. the 2nd two are accumulative. We alert on the 5 and 10 minute averages presently. The opposite of max iteration checks. 
+  
+    - CloudFLare alerts. What alerts are we looking for?
+
+Actual:
+    - Sumolofic review completed.  
+    - Nessus Updated ( Triston try the keys again? )
+    - Kernels updated and rebooted
+      - Performed manually. Dracut didn't cut it. 
+ 
+       
+
+Friday
+Todo:
+  - Patching Java and other vulns identified by Nessus
+  - Setting up PDK working towards ticket completion. 
+  - SRNL Migration Technical follow up
+
+
+Actual: 
+  - Mac Update
+  - Working on Vuln Patching for Mgmt. 
+    - First PR is in. Ty Gaving and Brady 4 reviews. 
+
+
+Saturday, Reboots. Who wants to co pilot? Brady available. 
+
+

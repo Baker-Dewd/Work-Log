@@ -1,0 +1,48 @@
+Monday: 
+  Todo: 
+    - SSL Cab prep
+    - SYS-19346 ~ Verify FedRamp Audit Logs
+    - SYS-19216 ~ Investigate 1.0 / 1.1 TLS in CF
+
+  Actual: 
+    - SSL Cab prep
+    - Fixing my GPG
+  
+Tuesday: 
+  Todo:
+    - SSL Cab prep
+    - 
+  
+  Actual: 
+    - SSL Cab prep
+    - 
+
+Wednesday: 
+  Todo:
+    - SSL Certs
+
+  Actual: 
+    - (SYS-19371) ~ SSL Certs [ Fkn Done ]
+    - Paired with Abdel to finish SC update.
+
+Thursday: 
+  Todo:
+    - IAM Deep Dive
+    - (SYS-19346) FedRamp AuthLogs -> Sumo
+        
+  Actual: 
+    - IAM Deep Dive [ Done ]
+    - (SYS-19436) CF 502 on THEI [ Done ]
+
+Friday
+  Todo:
+    - (SYS-19346) FedRamp AuthLogs -> Sumo
+    - 
+
+  Actual: 
+    - (SYS-19346) FedRamp AuthLogs -> Sumo
+    - - S3 Buckets inventoried, one ticket created. 
+    - Sumologic on Monday.  
+
+      
+

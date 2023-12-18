@@ -1,0 +1,73 @@
+Monday: 
+  Todo: 
+    - Vuln Patching + CABs
+
+  Actual: 
+    - Libcurl Vuln Patching no path forward. (SYS-19147)
+    - Did also look at Agents on two hosts but don't have a ticket or capa for that. 
+   - Tenable Security Center update. (SYS-19149)
+ 
+Tuesday: 
+  Todo:
+    - Tenable Security Center update. (SYS-19149)
+    - RDS Checks (SYS-19096)
+    - Gsuite Disk space (SYS-19264) - Can I just tell him no? If we let everyone increase their space...
+    
+[ Sidebar ] 
+--> Increase G suite storage or tell him to delete email / auto-expire old emails?
+--> Mising Tickets for Japan CloudFlare Cutover 
+- Give at least the Sophia team a walkthrough of CF and how it works
+- Give CS directives on how to respond when there is a CF block on a prod site. Also, Highlander.
+- CF about how to force a 403 so we can confirm and create searches. 
+--- I did play with this a little. We get 1000 monitors and I need a list of sites to monitor. 
+OPS: (SSSO-133) VA Cert status?
+
+  Actual: 
+    - Retrieve DOE Sandbox Logs (SYS-19258) 
+    - Phishing Email Review (SYS-19268)
+    - - Blocked domain and put list of recipients into the ticket by subject with screenshots.
+    - St. Jude Email In (SYS-19188)
+    - Cortevaag Database connection issue. (SYS-19269)
+
+Wednesday: 
+  Todo:
+    - Tenable Security Center update. (SYS-19149) **
+    - 
+
+  Actual: 
+    - Team meetin, log chopping
+    - Cortevaag Conneciton issue
+    - Umanitba issue ( flush-hosts was run )
+    - 
+
+Thursday: 
+  Todo:
+    - Tenable Security Center update. (SYS-19149) ***
+    - 
+        
+  Actual:
+    - [ On Call ] Autm and Rethink alerts - Self resolved 
+    - Umanitba issue ( flush-hosts was run )
+    - Memory exhausted errors. Brief check (SYS-19288)
+    - Tenable Security Center update. (SYS-19149) ***
+    - Nessus Agent Updated but doesn't show in UI (Yet)
+    - Ticket Creation and linking for CloudFlare cutover. 
+
+--> Need Help with S3 in FedRamp
+--> Where to find the aws creds script on fedramp host to connect to S3?
+
+
+Friday
+  Todo:
+    - Tenable Security Center update. (SYS-19149) ***
+    - Nessus Agent Updated but doesn't show in UI (Yet)
+
+  Actual: 
+    - Tenable Security Center update. (SYS-19149) DONE.
+    - Nessus Agent Updated In both envs. No ticket but DONE. ( Do I make a post-ticket? )
+    - Questions about Alerts, brief documentation. 
+
+      
+--> Special thanks to Brady for helping me get over the AWS hump in FedRamp after hours. 
+--> Is that Bucket allowed to remain?
+

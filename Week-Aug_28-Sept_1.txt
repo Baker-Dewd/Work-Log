@@ -1,0 +1,90 @@
+Monday: Aug 
+  Todo: 
+    - Watcher
+    - Patch remainder of lowers prior to cab
+      - These are my two main priorities today. 
+
+
+  Actual: 
+    - Huge problems with Git
+    - 
+
+
+Tuesday: 
+  Todo:
+    - Cab Prep    
+
+    - Flintbox test in PD? - Leave it to Daniel.  
+    - Question in Ops how much is our concern? - None. 
+
+  Actual: 
+    - Update Plan: 
+      - Figure out Evidence Collection ( reports ( Done )) 
+      - Collect Dev Before and after ( Done ) 
+      - Provide list of packages to update with patched version ( Done ) 
+      - Collect test Before report ( Done ) 
+      - Assess state of Github ( Fixed, Typ Brady )
+      - Validate common.eyaml ( Done )
+      - Run in Dev and confirm ( Done )
+ISSUE
+    - Test Differs from dev and master. 
+    - My branch vanished. Might have deleted when merged. 
+    - Inconsistent behaviour from Git. Need to carefull verify each setting on each run
+
+    - Update Plan ( Continued )
+      - Run on Test - In progres. 
+      - Collect After Report
+      - QA
+      - Stage 
+  
+    - run dev env ( Done )
+    - Run in Test. ( Branch issues )
+    - Test branch differs from master / dev ( Why do they differ? ) 
+
+      
+Wednesday: 
+  Todo:
+    - Vuln Patching Lowers
+    - Cab Prep
+
+Zips:
+  - Triston: 37130
+  - Geoff: 60425
+  - Brady: 60103
+  - Jose: 30153
+  - Daniel: 60435
+  - Abdel: 10703
+
+  Actual: 
+  - Team Meeting.
+  - Patching the lowers. ( Docuementation forthcoming  
+  - Cloned Vulnerability patching ticket and linked: (SYS-18998)
+    - SYS-18999 ~ Upgrade S1 Agents for FedRAMP compliance.
+    - SYS-19000 ~ Manually patch ops-repo01-prod-govmgmt.gov
+    - SYS-18994 ~ Python 3 update failure : sophia-cron01-dev-gov01
+      - When we fix Jira / Nessus integration the other tickets it creates can be linked. 
+  - Updated the RDS Cab with Brady's plan. 
+    - When we re-key I can make sure to run through the steps prior to the CAB.
+    
+Thursday: 
+  Todo:
+    - Document my experience thouroughly with what I received from Jose and Brady. 
+    - Schedule reboot of sophia-mail01 (SYS-18959)
+    - Fix Nessus / Jira Automation. (SYS-17622)
+    -  
+      
+  Actual: 
+    - Finished resolving vulnerabilities in the lowers that don't require cabs.
+    - Nessus Ticket handed off to Triston to coordinate with Contegix (SYS-17622)
+    - Cloudflare spike (SYS-18974) created (SYS-19013) - Meeting with Sumo for alerts. 
+    - Fixed rpm_mount permission denied (SYS-18964)
+    - Reboot of mail needs to be a CAB. **
+
+
+
+Friday
+    Todo: OFF / Anniversary
+
+    Actual: 
+      
+

@@ -1,0 +1,56 @@
+Monday: 
+  Todo: 
+    - Finish CABs for AP + JP RDS Resizing. 
+    - Finish CABs for CF cutovers for all regions. 
+    - Update tickets that are going to bump to the next sprint.
+
+  Actual: 
+    - Nessus security review [ Nothing new ]
+    - Sprint Planning 
+    - 2 RDS Cabs [ Approved ] (CAB-4258/4259)
+    - CF Alerting and Logs (SYS-19170) [ Individual origin addresses should be separate tickets. ]
+
+Tuesday: 
+  Todo:
+    - Failure to alert ( SYS-19122 )
+    -  
+ 
+  Actual: 
+    - Failure to alert (SYS-19122) 
+      - Closed to open SYS-19171. Turn to Nagios2
+    - Completed Managed Rules Spike. (SYS-18982)
+    - Finished Offboarding (SYS-19181)
+
+Wednesday: 
+  Todo:
+    - RDS Resizes
+    - 
+
+  Actual: 
+    - RDS Resizes
+    - SYS-19086 - Cloudflare for JP. 
+
+Thursday: 
+  Todo:
+    - JP CF Prod Cab
+     
+        
+  Actual: 
+    - Some JP CF Prod Cab ( refresh ) 
+    - Helped Abdel 
+    - Security Review
+
+Friday
+  Todo:
+    - Meet with Daniel to confirm I have what I need for the JP CF work. 
+    - RDS Lag alerts on Nagios2. 
+
+  Actual: 
+    - RDS Start (SYS-
+    - Paired with Ben and Abdel. On SYS-19166A
+    - Precab
+    - Sip and stare
+    - Drove kids around / took care of pickup. 
+
+      
+
